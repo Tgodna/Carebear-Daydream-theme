@@ -1,0 +1,21 @@
+{
+  "name": "carebear-daydream",
+  "displayName": "Carebear DayDream",
+  "description": "A soft and nostalgic Care Bears-inspired theme filled with pastel hues and dreamy colors, bringing a cheerful, whimsical vibe to your coding environment. Perfect for those who want to add a bit of retro charm and positivity to their workspace.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carebear DayDream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carebear DayDream-color-theme.json"
+      }
+    ]
+  }
+}
